@@ -1,9 +1,5 @@
 # AI_course
 
-TOOL
-
- For tutorials, you need to use some softwares, detailed below. 
-
 Data
 
 Below is the some website to get the dataset. 
@@ -11,6 +7,10 @@ Below is the some website to get the dataset.
 - [UCI machine learning](https://archive.ics.uci.edu/datasets)
 - [Google dataset search](https://datasetsearch.research.google.com/)
 - [Reddit](https://www.reddit.com/r/datasets/?rdt=48892)
+  
+TOOL
+
+ For tutorials, you need to use some softwares, detailed below. 
  
 
  Python
