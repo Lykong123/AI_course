@@ -2,7 +2,16 @@
 
 TOOL
 
- For tutorials and the experimental part of lectures, you need to use some softwares, detailed below. 
+ For tutorials, you need to use some softwares, detailed below. 
+
+Data
+
+Below is the some website to get the dataset. 
+- [kaggle](https://www.kaggle.com/)
+- [UCI machine learning](https://archive.ics.uci.edu/datasets)
+- [Google dataset search](https://datasetsearch.research.google.com/)
+- [Reddit](https://www.reddit.com/r/datasets/?rdt=48892)
+ 
 
  Python
 
@@ -15,5 +24,13 @@ TOOL
  - scikit-learn. Machine learning/Data mining
  - seaborn. plotting library
 
-- A quick tutorial for pandas [here](https://colab.research.google.com/github/Yquetzal/Teaching_notebooks/blob/main/Pandas_hands_on.ipynb#scrollTo=Sun0bs5-qPt3)
-- A quick tutorial about python data structure (lists, dictionaries, sets,...) [here](https://colab.research.google.com/github/Yquetzal/teaching_notebooks/blob/main/pythonDataStructureIntro.ipynb)
+ A quick tutorial for pandas [here](https://colab.research.google.com/github/Yquetzal/Teaching_notebooks/blob/main/Pandas_hands_on.ipynb#scrollTo=Sun0bs5-qPt3)
+
+ A quick tutorial about python data structure (lists, dictionaries, sets,...) [here](https://colab.research.google.com/github/Yquetzal/teaching_notebooks/blob/main/pythonDataStructureIntro.ipynb)
+
+
+Final exam
+
+Final exam will take place XX, with questions on all parts of the class. 
+
+  
