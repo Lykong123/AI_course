@@ -16,4 +16,4 @@ TOOL
  - seaborn. plotting library
 
 - A quick tutorial for pandas [here](https://colab.research.google.com/github/Yquetzal/Teaching_notebooks/blob/main/Pandas_hands_on.ipynb#scrollTo=Sun0bs5-qPt3)
-- A quick tutorial about python data structure (lists, dictionaries, sets,...) [here] (https://colab.research.google.com/github/Yquetzal/teaching_notebooks/blob/main/pythonDataStructureIntro.ipynb)
+- A quick tutorial about python data structure (lists, dictionaries, sets,...) [here](https://colab.research.google.com/github/Yquetzal/teaching_notebooks/blob/main/pythonDataStructureIntro.ipynb)
