@@ -1,6 +1,9 @@
 # AI_course
 
 Data
+Below is the dataset link for this class
+[movie dataset](https://drive.google.com/file/d/1I3UB1veAplBBL4DTs15T60TQKuk3WEqb/view?usp=sharing)
+
 
 Below is the some website to get the dataset. 
 - [kaggle](https://www.kaggle.com/)
